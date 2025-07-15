@@ -1,0 +1,5 @@
+teste Stash Suas Alterações ou seja, vou fazer um statsh para salvar as minhas alteraçoes
+depois vou  para branch de dev e depois vou voltar para minha branch
+
+sem add 8769
+
