@@ -1,0 +1,1 @@
+removendo um arquivo especifico da stash
