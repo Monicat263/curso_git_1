@@ -1,2 +1,3 @@
 criando um novo arquivo
-*** criei este arquivo e  não vou fazer o merge na dev**
+*** criei este arquivo e  não vou fazer o merge na dev
+**** Testando git diff
