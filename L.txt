@@ -3,3 +3,5 @@ criando um novo arquivo
 
 
 Blaá bla 
+*** criei este arquivo e  não vou fazer o merge na dev
+**** Testando git diff
